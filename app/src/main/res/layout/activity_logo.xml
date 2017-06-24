@@ -7,7 +7,7 @@
         android:id="@+id/iv_logo_activity_logo"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@mipmap/d"/>
+        android:background="@mipmap/logo"/>
 
     <Button
         android:id="@+id/btn_start_activity_logo"

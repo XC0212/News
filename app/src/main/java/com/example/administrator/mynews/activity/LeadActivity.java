@@ -95,6 +95,8 @@ public class LeadActivity extends AppCompatActivity {
                 SpUtils.putBooleanData(LeadActivity.this,"is_first_run",false);
                 Intent intent=new Intent(LeadActivity.this,LogoActivity.class);
                 startActivity(intent);
+                LeadActivity.this.finish();
+
             }
         });
     }

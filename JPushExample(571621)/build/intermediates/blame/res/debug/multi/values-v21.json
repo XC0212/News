@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\android\\androidStudio\\MyNews\\JPushExample(571621)\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "outputFile": "E:\\Users\\Administrator\\AndroidStudioProjects\\News\\JPushExample(571621)\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 225
                 },
                 "from": {
-                    "file": "E:\\android\\androidStudio\\MyNews\\JPushExample(571621)\\res\\values-v21\\styles.xml",
+                    "file": "E:\\Users\\Administrator\\AndroidStudioProjects\\News\\JPushExample(571621)\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
